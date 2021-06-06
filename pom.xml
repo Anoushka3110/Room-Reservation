@@ -14,7 +14,7 @@
 	<name>RoomReservationApplication</name>
 	<description>To Display Reservations and Guests</description>
 	<properties>
-		<java.version>16</java.version>
+		<java.version>8</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
